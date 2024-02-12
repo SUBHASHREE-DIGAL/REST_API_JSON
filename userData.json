@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "iworral0",
+    "email": "adarwent0@usda.gov",
+    "gender": "Male",
+    "city": "Dori"
+  },
+  {
+    "id": 2,
+    "name": "elockley1",
+    "email": "cnancekivell1@shutterfly.com",
+    "gender": "Female",
+    "city": "Cergy-Pontoise"
+  },
+  {
+    "id": 3,
+    "name": "rvause2",
+    "email": "slawtie2@wufoo.com",
+    "gender": "Male",
+    "city": "Port Loko"
+  },
+  {
+    "id": 4,
+    "name": "tagirre3",
+    "email": "sposnette3@theatlantic.com",
+    "gender": "Female",
+    "city": "Calheta de Nesquim"
+  },
+  {
+    "id": 5,
+    "name": "subha",
+    "email": "subhashreedigal@example.com",
+    "gender": "Male",
+    "city": "Stupari"
+  },
+  {
+    "id": 6,
+    "name": "mbacke5",
+    "email": "nsamwayes5@printfriendly.com",
+    "gender": "Female",
+    "city": "Rudnya"
+  },
+  {
+    "id": 7,
+    "name": "bhackin6",
+    "email": "jvanson6@fotki.com",
+    "gender": "Male",
+    "city": "Huacheng"
+  },
+  {
+    "id": 8,
+    "name": "tsheldrick7",
+    "email": "godulchonta7@ucla.edu",
+    "gender": "Female",
+    "city": "Cape Town"
+  },
+  {
+    "id": 9,
+    "name": "sfenix8",
+    "email": "rfrancesch8@weebly.com",
+    "gender": "Male",
+    "city": "Dayr Abū Ḑa‘īf"
+  },
+  {
+    "id": 10,
+    "name": "egrisenthwaite9",
+    "email": "rberardt9@fastcompany.com",
+    "gender": "Female",
+    "city": "Tiandiba"
+  },
+  {
+    "name": "holy",
+    "email": "holy@theatlantic.com",
+    "gender": "Female",
+    "city": "bangalore"
+  },
+  {
+    "id": 12,
+    "name": "subhashree digal",
+    "email": "subhashreedigal@gmail.com",
+    "gender": "Female",
+    "city": "bangalore"
+  }
+]
